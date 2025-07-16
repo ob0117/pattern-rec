@@ -27,7 +27,7 @@ This was a neat demonstration of the power of classical ML models. Despite how i
 
 ### Image Style Transfer with Gram Matrix & Sliced Wasserstein Distance
 
-In this project, I implement two popular image style transfer methods from scratch, using feature activations from the convolutional layers of a pre-trained VGG19 network on ImageNet, to extract content and style representations.
+In this project, I implement two popular image style transfer methods from scratch, using feature activations from convolutional layers of a pre-trained VGG19 network on ImageNet, to extract content and style representations.
 
 - **Gram Matrix (GM)** — Based on [*A Neural Algorithm of Artistic Style*](https://arxiv.org/pdf/1508.06576) by Gatys et al.  
   Represents correlations between VGG feature maps to represent the overall style of an image.
